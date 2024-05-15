@@ -1,0 +1,1 @@
+# Extracting-Handwritten-Text-Using-Gemini-1.5-Pro-API
